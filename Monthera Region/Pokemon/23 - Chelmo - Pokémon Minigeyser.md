@@ -18,26 +18,37 @@ Il arpentait les terres de Monthéra il y a des millions d'années. son mode de 
 *Chelmo vient d'un mélange de shell ("carapace" en anglais), de Dermochelys coriacea (nom scientifique de la tortue luth) et de thermo*
 
 
-	- Statistiques de base :
+##### *- Statistiques de base :*
 * PV : 63
-* Attaque : 58
+* Attaque : 55
 * Défense : 85
-* Attaque Spéciale : 53
-* Défense Spéciale : 76
+* Attaque Spéciale : 55
+* Défense Spéciale : 77
 * Vitesse : 22
 * Base totale : 357
 
-	`- Talents :` 
+##### *- Talents :*
 - Fermeté
 - (Talent caché) Absorbe-Terre
 
-###### - **Lignée évolutive :**
+##### *- Lignée évolutive :*
 Chelmo peut être ranimé à la base d'un fossile carapace. Il évolue ensuite en Vapochelys au niveau 42
 
 
-- Capacités apprenables : 
+##### *- Capacités apprenables :*
 
 Progression de niveau :
-- Départ : Pistolet à eau, Flammèche
--  4 : Repli
-- 
+- Départ : Ecras'face, Repli
+-  4 : Flammèche/ Pistolet à O
+-  8 : Coud'boue
+- 13 : Roulade
+- 16 : Anneau Hydro
+- 19 : Pouvoir antique
+- 22 : Lilliput
+- 24 : Calcination/Saumure
+- 27 : Piétisol
+- 31 : Anti-air
+- 34 : Feu Follet
+- 38 : Danse Pluie/Zénith
+- 42 : Malédiction
+- 47 : Abri

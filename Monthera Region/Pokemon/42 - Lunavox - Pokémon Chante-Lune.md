@@ -18,7 +18,7 @@ Lunavox est un Pokémon loyal et rare. Il n’apparaît que dans les forêts, le
 *Lunavox vient de Luna ("lune" en latin) et de vox ("voix" en latin)*
 
 
-	 - Statistiques de base :
+##### *- Statistiques de base :*
 * PV : 75
 * Attaque : 70
 * Défense : 85
@@ -27,7 +27,7 @@ Lunavox est un Pokémon loyal et rare. Il n’apparaît que dans les forêts, le
 * Vitesse : 90
 * Base totale : 540
 
-	  - Talents :
+##### *- Talents :*
 * Anti-bruit 
 * Synchronuisation (nouveau talent - Talent signature)
 * (Talent caché) Intimidation
@@ -39,11 +39,11 @@ Effet : Lorsque le pokémon entre sur le terrain, il modifie immédiatement le t
 Effet : Lorsque *Clair de lune* est actif, les pokémon de type ténèbres voient leur défense augmenter de 50% et certaines attaques voient leurs effets changer.
 
 
- ###### - **Lignée évolutive :**
+#####  *- Lignée évolutive :*
 Échopup évolue en Lunavox en gagnant un niveau **sous la météo *Clair de Lune*** et avec un **niveau de bonheur élevé**.
 
 
- - Capacités apprenables : 
+##### *- Capacités apprenables :*
 
 Progression de niveau :
 * Départ : Echo, Rugissement, Voix Enjôleuse, Croco-larme, Grondement, Baston, Hurlement, Morsure, Ultrason, Tourmente, Machouille
@@ -64,7 +64,7 @@ Progression de niveau :
  - CT compatibles (Basé sur Pokémon Écarlate & Violet) :
 Charme, Bélier, Croco-Larme, Hâte, Abri, Crocs Feu, Crocs Givre, Crocs Éclair, Vibraqua, Rafale Psy, Onde Folie, Voix Enjôleuse, Rayon Chargé, Aboiement, Météores, Ombre Nocturne, Tombée Nocturne (fanmade, invoque Clair de Lune), Tricherie, Psycho-Croc, Blabla Dodo, Protection, Mur Lumière, Cage-Éclair, Repos, Provoc, Vibrobscur, Clonage, Feu Follet, Machouille, Tour de Magie, Aurasphère, Ball’Ombre, Mégaphone, Psyko, Encore, Machination, Distorsion, Téra-Explosion, Hurlement, Toxic, Dépit, Onde Vide, Brouhaha, Ball’Météo, Feu Envieux, Cent Rancunes, Balance, Boost, Strido-Son, Dissonance Psy, Grincement
 
- ###### **--- Capacité signature de Lunavox : *Hurlenuit* ---**
+##### **--- Capacité signature de Lunavox : *Hurlenuit* ---**
 * Type : Son
 * Puissance : 80
 * Catégorie : Spéciale
