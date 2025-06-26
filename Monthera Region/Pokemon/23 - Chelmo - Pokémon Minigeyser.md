@@ -10,7 +10,7 @@
 * Cycle d'œuf : 25 cycles
 * Ratio Mâle / Femelle : 87.5% / 12.5%
 * Taux de capture : 45
-* Apparence physique : Tortue terrestre, dont la carapace rocheuse forme une mini colline, dessinant la forme d'un geyser. des craquelures bleues descendent du milieu de sa carapace jusqu'aux bords. Sa carapace est tellement lourde qu'il est très proche du sol. 
+* Apparence physique : Tortue terrestre, dont la carapace rocheuse forme une mini colline, dessinant la forme d'un geyser. des craquelures bleues descendent du milieu de sa carapace jusqu'aux bords. Sa carapace est tellement lourde qu'il est très proche du sol. Ils ont une petite tête par rapport à la taille de leur carapace, de couleur marron, écaillée, et des paupières tombantes, laissant peu de place aux yeux pour s'ouvrir
 
 *- Description Pokédex :
 Il arpentait les terres de Monthéra il y a des millions d'années. son mode de vie lent et prudent lui a permis de survivre jusqu'à notre époque. Il est aujourd'hui très apprécié dans les foyers pour la chaleur naturelle qu'il émet de sa carapace. Il se régénère grâce à la chaleur des roches volcaniques.

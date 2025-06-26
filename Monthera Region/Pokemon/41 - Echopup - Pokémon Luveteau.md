@@ -10,7 +10,7 @@
 * Cycle d'œuf : 30 cycles
 * Ratio Mâle / Femelle : 50% / 50%
 * Taux de capture : 75
-* Apparence physique : s'apparentant à un jeune louveteau
+* Apparence physique : s'apparentant à un jeune louveteau, les Echopup sont de nature curieuse et joviale. Ils sont dotés d'un pelage touffu, de couleur bleu nuit, d'une petite queue ressemblant à de la brume, et de longues oreilles, dont le cartilage striée ressemble à des cordes vocales. On peut voir une trace jaune, en forme de demi-lune, sur leur dos, qui capte la lumière de la lune. 
 
 *- Description Pokédex :
 En vous baladant la nuit dans les forêts de Monthera, il vous arrivera parfois d'entendre un faible cri résonnant entre les arbres. il s'agit très souvent d'un Echopup apeuré, s'étant égaré par excès de curiosité.

@@ -10,7 +10,7 @@
 * Cycle d'œuf : 30 cycles
 * Ratio Mâle / Femelle : 50% / 50%
 * Taux de capture : 45
-* Apparence physique : Lunavox est un grand loup élancé imposant et majestueux. Son pelage arbore un bleu profond, parcouru de stries jaunes de forme ondulées sur l'entièreté de son corps, rappelant des ondes sonores. Il a le bout des pattes noires et des longues oreilles pointues, dont le cartilage jaune est en forme de clé de sol. Des demi-anneaux blanc luminescents entourent ses pattes. Il a des yeux perçants, fins, en plus d'avoir les yeux vairons (un bleu clair et un jaune)
+* Apparence physique : les Lunavox sont des grands loups élancés, imposants et majestueux. Leurs pelages arborent un bleu profond, parcouru de stries jaunes de forme ondulées sur l'entièreté de leur corps, rappelant des ondes sonores. Ils ont le bout des pattes noirs et des longues oreilles pointues, dont le cartilage jaune rappelle la forme d'une clé de sol. Des demi-anneaux blanc luminescents entourent leurs pattes. Ils ont des yeux perçants, fins, en plus d'avoir les yeux vairons (un bleu clair et un jaune)
 
 *- Description Pokédex :
 Lunavox est un Pokémon loyal et rare. Il n’apparaît que dans les forêts, les soirs de pleine lune. Grâce à son pelage, il canalise la lumière de cette dernière pour générer des ondes sonores, lui permettant de communiquer avec ses semblables. La nuit, il émet des hurlements capables de désorienter même les prédateurs les plus redoutables.
