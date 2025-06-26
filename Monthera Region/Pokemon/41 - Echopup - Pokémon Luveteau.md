@@ -54,7 +54,6 @@ En vous baladant la nuit dans les forêts de Monthera, il vous arrivera parfois 
 
 
 *CT compatibles (Basé sur Pokémon Écarlate & Violet) :*
-
 Charme, Croco-Larme, Hâte, Abri, Crocs Feu, Crocs Givre, Crocs Éclair, Rafale Psy, Onde Folie, Voix Enjôleuse, Rayon Chargé, Aboiement, Météores, Ombre Nocturne, Tombée Nocturne (fanmade, invoque Clair de Lune), Blabla Dodo, Protection, Mur Lumière, Cage-Éclair, Repos, Provoc, Vibrobscur, Clonage, Feu Follet, Tour de Magie, Mégaphone, Encore, Machination, Distorsion, Téra-Explosion, Hurlement, Toxic, Dépit, Onde Vide, Brouhaha, Balance, Boost, Strido-Son, Grincement
 
 

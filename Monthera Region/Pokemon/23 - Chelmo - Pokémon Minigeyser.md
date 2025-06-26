@@ -52,3 +52,6 @@ Progression de niveau :
 - 38 : Danse Pluie/Zénith
 - 42 : Malédiction
 - 47 : Abri
+
+*CT compatibles (Basé sur Pokémon Écarlate & Violet) :*
+Bélier, Croco Larme, Coud'boue, Grimace, abri, vibraqua, onde folie, douche froide, danse flammes, façade, piétisol, Tir de boue, Tomberoche, Nitrocharge, Ténacité, Zénith, Danse pluie, Tunnel, Plaquage, Blabla dodo, Protection, Mur lumière, Boule roc, Trépignement, Repos, Eboulement, Provoc, Picots, Mur de fer, Tunnelier, Feu follet, Aqua-brèche, Piège de roc, Canicule, Surf, Lance-flammes, Amnésie, Telluriforce, Déflagration, Hydrocanon, Surchauffe, Tera-explosion, Buée noire, Toxic, Anti-air, Gyroballe, Ebullition, Tacle feu, Eau revoir, Balance, Indignition, Siphon, Ocroupi, Malédiction

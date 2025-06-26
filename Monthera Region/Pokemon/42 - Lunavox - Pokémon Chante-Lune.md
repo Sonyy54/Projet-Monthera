@@ -45,7 +45,7 @@ Effet : Lorsque *Clair de lune* est actif, les pokémon de type ténèbres voien
 
 ##### *- Capacités apprenables :*
 
-Progression de niveau :
+*Progression de niveau :*
 * Départ : Echo, Rugissement, Voix Enjôleuse, Croco-larme, Grondement, Baston, Hurlement, Morsure, Ultrason, Tourmente, Machouille
 * Après évolution : Hurlenuit (attaque signature)
 * 22 : Provoc
@@ -61,7 +61,7 @@ Progression de niveau :
 * 73 : Bang Sonique (type modifié : Son)
 
 
- - CT compatibles (Basé sur Pokémon Écarlate & Violet) :
+*CT compatibles (Basé sur Pokémon Écarlate & Violet) :*
 Charme, Bélier, Croco-Larme, Hâte, Abri, Crocs Feu, Crocs Givre, Crocs Éclair, Vibraqua, Rafale Psy, Onde Folie, Voix Enjôleuse, Rayon Chargé, Aboiement, Météores, Ombre Nocturne, Tombée Nocturne (fanmade, invoque Clair de Lune), Tricherie, Psycho-Croc, Blabla Dodo, Protection, Mur Lumière, Cage-Éclair, Repos, Provoc, Vibrobscur, Clonage, Feu Follet, Machouille, Tour de Magie, Aurasphère, Ball’Ombre, Mégaphone, Psyko, Encore, Machination, Distorsion, Téra-Explosion, Hurlement, Toxic, Dépit, Onde Vide, Brouhaha, Ball’Météo, Feu Envieux, Cent Rancunes, Balance, Boost, Strido-Son, Dissonance Psy, Grincement
 
 ##### **--- Capacité signature de Lunavox : *Hurlenuit* ---**
